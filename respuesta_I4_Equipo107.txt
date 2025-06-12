@@ -7,4 +7,8 @@ A. Azul
 B. Amarillo
 C. Azul
 D. El de beta
-E.
+E. Beta y Gamma
+F. No dejaba pushear
+G. git push -f, pero se reemplazan los cambios anteriores a la fuerza
+H. Se guarda el ultimo cambio
+I. Cada uno tiene que hacer el push y el pull cuando corresponda y hacer el merge.
